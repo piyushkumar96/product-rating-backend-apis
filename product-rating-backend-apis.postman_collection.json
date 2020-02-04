@@ -848,47 +848,6 @@
 			"response": []
 		},
 		{
-			"name": "Delete Trade",
-			"request": {
-				"auth": {
-					"type": "bearer",
-					"bearer": [
-						{
-							"key": "token",
-							"value": "{{authToken}}",
-							"type": "string"
-						}
-					]
-				},
-				"method": "DELETE",
-				"header": [
-					{
-						"key": "Content-Type",
-						"name": "Content-Type",
-						"value": "application/json",
-						"type": "text"
-					}
-				],
-				"body": {
-					"mode": "raw",
-					"raw": "{\n  \"trdId\": \"TRD4\"\n}"
-				},
-				"url": {
-					"raw": "{{url}}/api/v1/deleteTrade",
-					"host": [
-						"{{url}}"
-					],
-					"path": [
-						"api",
-						"v1",
-						"deleteTrade"
-					]
-				},
-				"description": "Delete Trade"
-			},
-			"response": []
-		},
-		{
 			"name": "Logout Current Session",
 			"request": {
 				"auth": {

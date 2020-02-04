@@ -3677,3 +3677,105 @@
 {"message":"[usersSvc ]: User Piyu Kumar User Successfully deleted @@@","level":"info"}
 {"message":"[authMiddleware ]: TypeError: Cannot read property 'replace' of undefined","level":"error"}
 {"message":"[usersSvc ]: User Piyu Kumar User Successfully Updated @@@","level":"info"}
+{"message":"[Server]:  api server started on: 4000","level":"info"}
+{"message":"[Server]: Connection with MongoDB installed","level":"info"}
+{"message":"[Server]:  api server started on: 4000","level":"info"}
+{"message":"[Server]: Connection with MongoDB installed","level":"info"}
+{"message":"[usersSvc ]: User Created Successfully @@@","level":"info"}
+{"message":"[usersSvc ]: User Created Successfully @@@","level":"info"}
+{"message":"[usersSvc ]: User Piyush Kumar login Successfully @@@","level":"info"}
+{"message":"User logined Succefully @@@","level":"info"}
+{"message":{"prodName":"Tables","actualPrice":100,"color":"black","status":"available","quantity":100},"level":"info"}
+{"message":"[productsSvc ]:  Product added successfully @@@","level":"info"}
+{"message":{"prodName":"Chairs","actualPrice":200,"color":"red","status":"available","quantity":150},"level":"info"}
+{"message":"[productsSvc ]:  Product added successfully @@@","level":"info"}
+{"message":"[productsSvc ]:  Products fetched successfully @@@","level":"info"}
+{"message":"[Server]:  api server started on: 4000","level":"info"}
+{"message":"[Server]: Connection with MongoDB installed","level":"info"}
+{"message":"[usersSvc ]: MongoError: E11000 duplicate key error collection: product_rating_backend_apis.users index: email_1 dup key: { : \"piyush@gmail.com\" }","level":"error"}
+{"message":"[usersCntrl]: User with email address exists","level":"error"}
+{"message":"[Server]:  api server started on: 4000","level":"info"}
+{"message":"[Server]: Connection with MongoDB installed","level":"info"}
+{"message":"[usersSvc ]: User Created Successfully @@@","level":"info"}
+{"message":"[usersSvc ]: User Created Successfully @@@","level":"info"}
+{"message":"[usersSvc ]: User Piyush Kumar login Successfully @@@","level":"info"}
+{"message":"User logined Succefully @@@","level":"info"}
+{"message":"[productsSvc ]:  No products added yet","level":"info"}
+{"message":"[productsCntrl]:  No products added yet","level":"error"}
+{"message":"Get the User @@@","level":"info"}
+{"message":{"prodName":"Tables","actualPrice":100,"color":"black","status":"available","quantity":100},"level":"info"}
+{"message":"[productsSvc ]:  Product added successfully @@@","level":"info"}
+{"message":{"prodName":"Chairs","actualPrice":200,"color":"red","status":"available","quantity":150},"level":"info"}
+{"message":"[productsSvc ]:  Product added successfully @@@","level":"info"}
+{"message":"[productsSvc ]:  Products fetched successfully @@@","level":"info"}
+{"message":"[productsSvc ]:  Available products fetched successfully @@@","level":"info"}
+{"message":"[productsSvc ]:  Successfully updated quantity  @@@","level":"info"}
+{"message":"[productsSvc ]:  Products fetched successfully @@@","level":"info"}
+{"message":"[usersSvc ]: User Piyush Kumar LogOut Current Session Successfully @@@","level":"info"}
+{"message":"[usersSvc ]: User Rishu Kumar login Successfully @@@","level":"info"}
+{"message":"User logined Succefully @@@","level":"info"}
+{"message":"[usersSvc ]:  Current rented products fetched successfully @@@","level":"info"}
+{"message":"[usersSvc ]:  Successfully updated user's profile after renting  @@@","level":"info"}
+{"message":"[productsSvc ]:  Product's details updated successfully after renting a product @@@","level":"info"}
+{"message":"[productsSvc ]:  Successfully rented product NaN","level":"info"}
+{"message":"[usersSvc ]:  Current rented products fetched successfully @@@","level":"info"}
+{"message":"[usersSvc ]:  Previously rented products fetched successfully @@@","level":"info"}
+{"message":"[usersSvc ]:  Successfully updated user's profile after renting  @@@","level":"info"}
+{"message":"[productsSvc ]:  Product's details updated successfully after renting a product @@@","level":"info"}
+{"message":"[productsSvc ]:  Successfully rented product NaN","level":"info"}
+{"message":"[usersSvc ]:  Current rented products fetched successfully @@@","level":"info"}
+{"message":"[usersSvc ]:  Successfully updated user's profile after renting  @@@","level":"info"}
+{"message":"[productsSvc ]:  Product's rating details updated successfully @@@","level":"info"}
+{"message":"[productsSvc ]:  Product rated successfully @@@","level":"info"}
+{"message":"[productsSvc ]:  Product fetched successfully @@@","level":"info"}
+{"message":"[productsSvc ]:  All ratings of product fetched successfully @@@","level":"info"}
+{"message":"[usersSvc ]:  Successfully updated user's profile after renting  @@@","level":"info"}
+{"message":"[productsSvc ]:  Product's details updated successfully after renting a product @@@","level":"info"}
+{"message":"[productsSvc ]:  Successfully rented product NaN","level":"info"}
+{"message":"[usersSvc ]:  Current rented products fetched successfully @@@","level":"info"}
+{"message":"[usersSvc ]:  Product returned successfully @@@","level":"info"}
+{"message":"[usersSvc ]:  Current rented products fetched successfully @@@","level":"info"}
+{"message":"[usersSvc ]:  Previously rented products fetched successfully @@@","level":"info"}
+{"message":"[usersSvc ]:  Product returned successfully @@@","level":"info"}
+{"message":"[usersSvc ]:  Previously rented products fetched successfully @@@","level":"info"}
+{"message":"[usersSvc ]: User Rishu Kumar LogOut All Sessions Successfully @@@","level":"info"}
+{"message":"[usersSvc ]: User Created Successfully @@@","level":"info"}
+{"message":"[usersSvc ]: User Ayush Kumar login Successfully @@@","level":"info"}
+{"message":"User logined Succefully @@@","level":"info"}
+{"message":"[usersSvc ]:  Current rented products fetched successfully @@@","level":"info"}
+{"message":"Get the User @@@","level":"info"}
+{"message":"[usersSvc ]:  Successfully updated user's profile after renting  @@@","level":"info"}
+{"message":"[productsSvc ]:  Product's details updated successfully after renting a product @@@","level":"info"}
+{"message":"[productsSvc ]:  Successfully rented product NaN","level":"info"}
+{"message":"[usersSvc ]:  Current rented products fetched successfully @@@","level":"info"}
+{"message":"[usersSvc ]:  Successfully updated user's profile after renting  @@@","level":"info"}
+{"message":"[productsSvc ]:  Product's rating details updated successfully @@@","level":"info"}
+{"message":"[productsSvc ]:  Product rated successfully @@@","level":"info"}
+{"message":"[productsSvc ]:  All ratings of product fetched successfully @@@","level":"info"}
+{"message":"[usersSvc ]:  Product returned successfully @@@","level":"info"}
+{"message":"[usersSvc ]:  Current rented products fetched successfully @@@","level":"info"}
+{"message":"[usersSvc ]:  Previously rented products fetched successfully @@@","level":"info"}
+{"message":"Get the User @@@","level":"info"}
+{"message":"[usersSvc ]: User Ayush Kumar LogOut All Sessions Successfully @@@","level":"info"}
+{"message":"[usersSvc ]: User Rishu Kumar login Successfully @@@","level":"info"}
+{"message":"User logined Succefully @@@","level":"info"}
+{"message":"Get the User @@@","level":"info"}
+{"message":"[productsSvc ]:  Product fetched successfully @@@","level":"info"}
+{"message":"[usersSvc ]: User Rishu Kumar User Successfully Updated @@@","level":"info"}
+{"message":"[usersSvc ]: User Rishu Kumar Password Successfully Updated @@@","level":"info"}
+{"message":"[usersSvc ]: User Rishu Kumar LogOut Current Session Successfully @@@","level":"info"}
+{"message":"[usersSvc ]: Error: Authentication failed","level":"error"}
+{"message":"[usersCntrl]: Authentication failed","level":"error"}
+{"message":"[usersSvc ]: User Rishu Kumar login Successfully @@@","level":"info"}
+{"message":"User logined Succefully @@@","level":"info"}
+{"message":"[usersSvc ]: User Rishu Kumar LogOut Current Session Successfully @@@","level":"info"}
+{"message":"[usersSvc ]: User Rishu Kumar login Successfully @@@","level":"info"}
+{"message":"User logined Succefully @@@","level":"info"}
+{"message":"[usersSvc ]: User Rishu Kumar User Successfully deleted @@@","level":"info"}
+{"message":"[authMiddleware ]: Error","level":"error"}
+{"message":"[usersSvc ]: Error: Authentication failed","level":"error"}
+{"message":"[usersCntrl]: Authentication failed","level":"error"}
+{"message":"[usersSvc ]: MongoError: E11000 duplicate key error collection: product_rating_backend_apis.users index: email_1 dup key: { : \"ayush@gmail.com\" }","level":"error"}
+{"message":"[usersCntrl]: User with email address exists","level":"error"}
+{"message":"[Server]:  api server started on: 4000","level":"info"}
+{"message":"[Server]: Connection with MongoDB installed","level":"info"}
