@@ -24,15 +24,20 @@ This repository  explains the business requirements of a portfolio tracking API.
 3. Postman
 
 # Steps:- 
-1. Download folder “product-rating-backend-apis” folder from the Github (https://github.com/piyushkumar96/product-rating-backend-apis).
+1. Download folder “**product-rating-backend-apis**” folder from the Github (https://github.com/piyushkumar96/product-rating-backend-apis).
 
-2. Go inside the “product-rating-backend-apis” folder. Check the there should be all the folders mentioned below except the “node_modules” folder. 
+2. Go inside the “**product-rating-backend-apis**” folder. Check the there should be all the folders mentioned below except the “**node_modules**” folder. 
 
 3. Then run commands
+
 	`cd product-rating-backend-apis`
+
 	`sudo npm install`
+
 	`npm start`                               // to run the application
+
                 or 
+                
     `npm test`                               // to test the application
 
 4. Download file product-rating-backend-apis.postman_collection.json the Postman APIs. Then import these APIs using the import feature of Postman.
